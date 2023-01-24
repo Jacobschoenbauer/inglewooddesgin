@@ -1,3 +1,12 @@
+body {
+  color: #000000;
+  background-image: url(../IMG_3328.jpg);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
 .logo {
   margin: 70px;
   width: 300px;
@@ -6,7 +15,6 @@
 .image {
   display: flex;
   justify-content: center;
-  
 }
 .nav {
   display: flex;
@@ -15,6 +23,6 @@
   height: 40px;
   align-items: center;
 }
-a{
-    color: bisque;
+a {
+  color: bisque;
 }
